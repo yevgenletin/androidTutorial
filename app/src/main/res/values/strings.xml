@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">P0501_SimpleAdapterCustom2</string>
+    <string name="textview">textView</string>
 </resources>
